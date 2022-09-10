@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(41, 1, 79);
+}
+
+h1{
+    font-family: Jazz LET, fantasy;
+    position: relative;
+    top: -30px;
+    font-size: 400%;
+    text-align: center;
+    color: rgba(94, 200, 33, 0.996);
+
+}
+
+.ussShip {
+    position:relative;
+    left: 300px;
+    top: 200px;
+}
+
+h2{
+    font-family: Jazz LET, fantasy;
+    font-size: 4ch;
+    position: relative;
+    left: -90px;
+    color:rgba(94, 200, 33, 0.996);
+
+}
+
+.retreat{
+    position: relative;
+    right: 200px;
+    font-family: Jazz LET, fantasy;
+    margin-top: 20px;
+    font-size: x-large;
+    color: rgb(50, 2, 94);
+    background-color: rgba(94, 200, 33, 0.996);
+
+}
+
+.attack {
+    position: relative;
+    left:  120px;
+
+    font-family: Jazz LET, fantasy;
+    margin-top: 20px;
+    font-size: x-large;
+    color: rgb(50, 2, 94);
+    background-color: rgba(94, 200, 33, 0.996);
+
+}
+
+.health{
+    font-family: Jazz LET, fantasy;
+    position: relative;
+    left: -20px;
+    margin-top: -10px;
+    font-size: 4ch;
+    color: rgba(94, 200, 33, 0.996);
+
+    width: 11%;
+    
+}
+
+.alienShips {
+    position:relative;
+    left: 1000px;
+    top: 10px; 
+}
+
+.shipStyles {
+    font-family: Jazz LET, fantasy;
+    font-size: medium;
+    color: rgba(94, 200, 33, 0.996);
+}
